@@ -1,1 +1,10 @@
-
+      {
+        id: '1',
+        title: 'Drop is Live now!',
+        description-en: 'Drop is now live! Join the community and explore the new features.https://discord.gg/Kt36rNuWub',
+        description-jp: 'Dropがついに正式リリースされました!!Discordサーバーでプレイできます！https://discord.gg/Kt36rNuWub'
+        content: 'Drop is officially live! We are excited to welcome you to our new platform. Explore the features, join the community, and enjoy the experience! https://discord.gg/dropfn',
+        date: '2026-09-11',
+        category: 'announcement',
+        image: 'https://i.imgur.com/XkQLYFQ.png'
+      }
