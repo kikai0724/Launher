@@ -7,4 +7,15 @@
         date: '2026-09-11',
         category: 'announcement',
         image: 'https://i.imgur.com/XkQLYFQ.png'
+      },
+      {
+        id: '2',
+        title: 'Remake Launcher is Live now!',
+        description-en: 'The Drop launcher has been updated. Dive into the new, highly secure launcher!',
+        description-jp: 'Dropのlauncherが更新されました。機密性の高い新しいlauncherに飛び込もう！'
+        content: 'The Drop launcher has been updated. Dive into the new, highly secure launcher!',
+        date: '2026-09-13',
+        category: 'update',
+        image: 'https://i.imgur.com/XkQLYFQ.png'
       }
+
